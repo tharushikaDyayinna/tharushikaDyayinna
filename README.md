@@ -14,8 +14,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tharushika-yayinna-991459229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tharushika-yayinna-991459229/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/tharushikadyayinna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tharushikadyayinna" height="30" width="40" /></a>
 <a href="https://kaggle.com/tharushikadyayinna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tharushikadyayinna" height="30" width="40" /></a>
-<a href="https://medium.com/@tharu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tharu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@tdyn_6910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tdyn_6910" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tharushika yayinna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tharushika yayinna" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tharushika8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tharushika8" height="30" width="40" /></a>
 </p>
 
