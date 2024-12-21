@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushikadyayinna&label=Profile%20views&color=0e75b6&style=flat" alt="tharushikadyayinna" /> </p>
 
-- 🌱 I’m currently learning **Exploring advanced frameworks like React.js and Next.js to enhance front-end skill and Diving deep into blockchain and IPFS technologies for secure decentralized systems**
+- 🌱 **I’m currently Exploring advanced frameworks like React.js and Next.js to enhance front-end skill and Diving deep into blockchain and IPFS technologies for secure decentralized systems**
 
-- 💬 Ask me about **Web development, including both front-end and back-end technologies and Blockchain integration for decentralized applications**
+- 💬 **Ask me about Web development, including both front-end and back-end technologies and Blockchain integration for decentralized applications**
 
-- 📫 How to reach me **Feel free to connect with me on https://www.linkedin.com/in/tharushika-yayinna-991459229/ , Drop me an email at tharushikayayinna@gmail.com for collaboration or inquiries**
+- 📫 **Feel free to connect with me on https://www.linkedin.com/in/tharushika-yayinna-991459229/ , Drop me an email at tharushikayayinna@gmail.com for collaboration or inquiries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
