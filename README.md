@@ -6,7 +6,7 @@
 <picture> <img align="right" src="https://s3.amazonaws.com/mobileappdaily/mad/uploads/mad_blog_5d8c6c86cdb001569483910.gif" width = 300px></picture>
 
 
-- :technologist: Currently working on `Frontend Development` **&** `Blockchain Technology`
+- :technologist: Currently working on `Web Development` **&** `Blockchain Technology`
 - 📝 I have a strong interest in `Machine Learning` 
 
 - :email:  [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Tharushika&amp;color=EA4335&amp;style=flat-square)](mailto:tharushikayayinna@gmail.com)
