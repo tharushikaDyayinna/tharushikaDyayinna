@@ -28,9 +28,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 
-### :chains: Blockchain Development  
+<!-- ### :chains: Blockchain Development  
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white) ![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=flat-square&logo=Truffle&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white)  ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=IPFS&logoColor=white) ![Ganache](https://img.shields.io/badge/Ganache-EF7837?style=flat-square&logo=Ethereum&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white) ![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=flat-square&logo=Truffle&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white)  ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=IPFS&logoColor=white) ![Ganache](https://img.shields.io/badge/Ganache-EF7837?style=flat-square&logo=Ethereum&logoColor=white) -->
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
