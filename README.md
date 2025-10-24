@@ -1,18 +1,15 @@
 <!-- <h1 align="center">Hi 👋, I'm Tharushika</h1> -->
-<h3 align="center">A passionate web developer from Sri Lanka</h3>
+<h1 align="center">A passionate AI/ML  developer </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushikadyayinna&label=Profile%20views&color=0e75b6&style=flat" alt="tharushikadyayinna" /> </p>
 
 <picture> <img align="right" src="https://s3.amazonaws.com/mobileappdaily/mad/uploads/mad_blog_5d8c6c86cdb001569483910.gif" width = 300px></picture>
 
 
-- :technologist: Currently working on `Web Development` **&** `Blockchain Technology`
-- 📝 I have a strong interest in `Machine Learning` 
+<!-- - :technologist: Currently working on ` Backend Development ` **&** `Blockchain Technology` -->
+<!-- - 📝 I have a strong interest in `Machine Learning` -->
 
 - :email:  [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Tharushika&amp;color=EA4335&amp;style=flat-square)](mailto:tharushikayayinna@gmail.com)
-
-
-<br>
 
 ## 🛠️ My Skills
 
